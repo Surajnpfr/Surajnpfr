@@ -1,6 +1,6 @@
 # Hi there, I'm Suraj Nepal 👋 🚀
 
-I am a software engineer and tech builder passionate about developing robust web applications, exploring automation, and creating platforms that solve real-world challenges. My expertise spans clean code architectures, full-stack ecosystems, and localized digital platforms.
+I am a Full-Stack Developer passionate about developing robust web applications, exploring automation, and creating platforms that solve real-world challenges. My expertise spans clean code architectures, full-stack ecosystems, and localized digital platforms.
 
 ---
 
