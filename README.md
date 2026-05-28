@@ -17,15 +17,15 @@ I am a Full-Stack Developer passionate about developing robust web applications,
 
 ### 📊 GitHub Analytics
 
-Here is a quick snapshot of my development activity and repository statistics:
+Here is a quick snapshot of my development activity and repository statistics (optimized with low-cache community mirrors for faster live updates):
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajnpfr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Suraj's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajnpfr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=surajnpfr&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800&v=1" alt="Suraj's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=surajnpfr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800&v=1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajnpfr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajnpfr&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
