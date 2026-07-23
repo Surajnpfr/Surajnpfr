@@ -34,7 +34,7 @@ Here is a quick snapshot of my development activity and repository statistics (o
 
 #### ⚖️ LegalAI
 * An intelligent application built to streamline legal workflows, leveraging modern language models and AI frameworks to assist in document synthesis, contract analysis, and localized legal research.
-* 
+  
 #### 📦 StartupSupplies
 * An infrastructure and supply-chain hub engineered to support emerging tech teams and startups with essential resource provisioning, deployment assets, and vendor management logic.
 
