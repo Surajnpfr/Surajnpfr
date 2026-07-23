@@ -34,16 +34,15 @@ Here is a quick snapshot of my development activity and repository statistics (o
 
 #### ⚖️ LegalAI
 * An intelligent application built to streamline legal workflows, leveraging modern language models and AI frameworks to assist in document synthesis, contract analysis, and localized legal research.
-
-#### ☕ CoffeeHubNepal
-* A dedicated TypeScript-powered platform designed to optimize digital operations and community tracking for Nepal's growing coffee industry—focusing on supply transparency and local marketplace efficiency.
-
+* 
 #### 📦 StartupSupplies
 * An infrastructure and supply-chain hub engineered to support emerging tech teams and startups with essential resource provisioning, deployment assets, and vendor management logic.
 
 #### 🏛️ HamroNiti
 * A platform built to systematically track, analyze, and review government policies and regulatory updates in Nepal. Designed with custom admin controls and intuitive user components for policy tracking.
 
+#### 📚 Sahityik Kuno
+A digital literary platform dedicated to preserving and promoting Nepali literature through poems, stories, essays, ghazals, and other creative works. Designed with an intuitive reading experience, powerful content management, and SEO-driven architecture to connect readers and writers.
 ---
 
 ### 📫 Connect with Me
