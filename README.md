@@ -42,7 +42,7 @@ Here is a quick snapshot of my development activity and repository statistics (o
 * A platform built to systematically track, analyze, and review government policies and regulatory updates in Nepal. Designed with custom admin controls and intuitive user components for policy tracking.
 
 #### 📚 Sahityik Kuno
-A digital literary platform dedicated to preserving and promoting Nepali literature through poems, stories, essays, ghazals, and other creative works. Designed with an intuitive reading experience, powerful content management, and SEO-driven architecture to connect readers and writers.
+* A digital literary platform dedicated to preserving and promoting Nepali literature through poems, stories, essays, ghazals, and other creative works. Designed with an intuitive reading experience, powerful content management, and SEO-driven architecture to connect readers and writers.
 ---
 
 ### 📫 Connect with Me
