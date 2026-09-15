@@ -10,7 +10,7 @@ I am a Full-Stack Developer passionate about developing robust web applications,
 | :--- | :--- |
 | **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
 | **Frameworks & CMS** | ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
-| **Systems & Logic**| ![Electronics](https://img.shields.io/badge/Electronics-EE3333?style=flat&logo=circuits&logoColor=white) ![Control Systems](https://img.shields.io/badge/Control%20Systems-008080?style=flat) |
+| **Systems & Logic**| ![Electronics](https://img.shields.io/badge/Electronics-EE3333?style=flat&logo=circuits&logoColor=white)  |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 
 ---
